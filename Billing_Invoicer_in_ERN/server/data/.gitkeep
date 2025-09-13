@@ -1,0 +1,7 @@
+server/data/
+server/data/*.json
+
+# Sample data - Remove these lines after first run
+!server/data/users.json.sample
+!server/data/products.json.sample
+!server/data/invoices.json.sample
